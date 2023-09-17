@@ -122,7 +122,6 @@ marquee {
     font-weight: bolder;
     font-size: 1.7rem;
     font-family: 'Dancing Script', cursive;
-
 }
 
 section {
@@ -385,10 +384,7 @@ section .box .github {
         overflow: visible;
         scroll-behavior: smooth;
     }
-    body {
-        touch-action: none;
-        user-select: none;
-    }
+
     #loading-screen .animate_loading {
         width: 100px;
         height: 100px;
